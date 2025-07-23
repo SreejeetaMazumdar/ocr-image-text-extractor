@@ -1,0 +1,68 @@
+iv. Standard Time
+
+*To avoid difficulties a system of standard time is observed
+by all countries. Most countries adopt their standard time
+from the central meridian of the countries. *There is a general
+understanding among the countries of the world to select
+the standard meridian in multiples of 7°30' of longitude.
+That is why 82°30'E has been selected as the Standard
+Meridian of India. This meridian passes through the Mirzapur
+district (near Allahabad now Prayagraj) in the state of UP.
+*Indian Standard Time is § hours and 30 minutes ahead of
+Greenwich Mean Time (GMT).
+
+Indian Standard Time Meridian
+
+Indian standard Meridian passes through total 5 states which
+are Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha and
+Andhra Pradesh. *There are total 360 longitudes. All these
+longitudes divide the earth into two equal parts and therefore
+
+ahead of G.M.T. till he reaches the 180°E meridian) while
+
+moving westward he loses 12 hours when he reaches 180° W.
+There is thus a total difference of 24 hours on the two sides
+of 180° meridian. Thus the date changes exactly by one day
+crossing the International Date Line. It is curved from the
+normal 180° meridian at the Bering Strait, Fiji, Tonga and
+other islands to prevent confusion of date.
+
+When there is midnight at IST meridian, a place
+observes 6 A.M. The meridian on which the said place
+is located is
+(a) 73V'E
+(c) 7°30°E
+
+(b) 172°30°E
+(d) 127° 30° W
+U.P.P.C.S. (Mains) 2002
+
+Ans. (b)
+
+When there is midnight at IST meridian, a place observes
+6:00 A.M. has to be in the east of India. It is because Sun
+rises early in the east. The difference in their meridian after
+6 hours will be 15 x 6 = 90° (15° = 1 hour). Indian Standard
+Time (IST) is the time observed throughout India and is
+1°
+calculated based on the °2 ‘9 East longitude. Thus, the
+1°
+
+place is situated at = 90° + 2 = 172° 30' East.
+
+How many hours of time difference will be there
+between the most western village of Gujrat and the
+most eastern village of Arunachal Pradesh, Walong ?
+(a) | hour (b) 2 hour
+(c) 3 hour (d) 1/2 hour
+
+U.P.P.C.S. (Pre) 1992
+
+Ans. (b)
+
+The state of Gujarat is situated on the west coast of India
+between 68° 4' east and 74°4' East longitudes and Arunachal
+Pradesh is located between 91° 30’ East and 97° 30' East
+longitudes. Thus, the longitudinal difference between western
+village of Gujarat and eastern village of Arunachal Pradesh is
+97°30! — 68°4' = 29°26’ . As we know from one longitude to
